@@ -22,7 +22,7 @@ export default function Signup() {
     e.preventDefault();
     try {
       const response = await axios.post(`${api}/users/signup`, formData);
-      navigate("/users");
+      navigate("/login");
     } catch (error) {
       console.error(error);
       alert("Signup failed.");
