@@ -14,7 +14,7 @@ User List Screen: Display a list of all registered users. \
 Tech Stack: 
  
 Front End: React JS,Tailwind CSS \
-Database: Nodejs, ExpressJs, MongoDB, Mongoose \
+Database: Nodejs, ExpressJs, MongoDB, Mongoose 
 
 Frontend Server link : https://hruserinfo.netlify.app/ \
 API documentation : https://documenter.getpostman.com/view/32014275/2sA3s9CoB6
